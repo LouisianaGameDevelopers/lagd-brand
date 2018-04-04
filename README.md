@@ -9,6 +9,7 @@
 * [LAGD-Brand](#-lagd-brand)
   * [Table of contents](#table-of-contents)
   * [Overview](#overview)
+  * [Colors](#overview)
   * [Roadmap](#roadmap)
   * [Contributing](#contributing)
   * [License](#license)
@@ -20,6 +21,13 @@ you see here is the logo and color palette that we’ve landed on for now. Thank
 to the Noun Project, whose commnunity of artists provided the basis for the
 fleur-de-lis shape and the general look of the controller. We will continue to
 refine and improve the design but for now this is the look of LAGD!
+
+## Colors
+
+The two main colors used in the designs in this repo are:
+
+- #23ABAE
+- #F5467F
 
 ## Roadmap
 - [ ] Branding guidelines
