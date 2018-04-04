@@ -2,8 +2,6 @@
 
 <img align="left" src="https://raw.githubusercontent.com/LouisianaGameDevelopers/lagd-logo/master/Versions/PNG/Banner.png" width="100%">
 
-This is the logo + branding for the [Louisiana Game Developers network](https://lagd.network/).
-
 ## Table of contents
 
 * [LAGD-Brand](#-lagd-brand)
