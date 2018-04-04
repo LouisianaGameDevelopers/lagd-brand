@@ -1,6 +1,8 @@
 # 🎨 LAGD Brand
 
-<img align="left" src="https://raw.githubusercontent.com/LouisianaGameDevelopers/lagd-logo/master/Versions/PNG/Banner.png" width="100%">
+<p>
+ <img src="https://raw.githubusercontent.com/LouisianaGameDevelopers/lagd-logo/master/Versions/PNG/Banner.png" width="100%">
+</p>
 
 ## Table of contents
 
